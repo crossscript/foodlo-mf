@@ -1,5 +1,4 @@
 import React from "react"
-import {useState} from 'react-dom'
 import "./dishbar.scss"
 
 const DishBar = (props) =>{
