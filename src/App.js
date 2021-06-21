@@ -1,25 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import DishBar from "./components/DishBar/dishbar"
+import NavBar from "./components/NavBar/nav"
+import { dish } from './data/dishdata'
+import "./App.css";
 
 function App() {
+
+  // const dish = [{'name': 'Bread', 'indg': 'Green Chillies & Mustard Suace', 'price': '₹50'}]
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <NavBar />
+      <div className="dish-list">
+        {
+          dish.map(value => {
+            return (<DishBar name={ value.name } indg={ value.indg } price={ value.price } />);
+          })
+        }
+      </div>
+
+
+    </>
   );
 }
 
