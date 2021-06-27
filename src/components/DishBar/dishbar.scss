@@ -1,27 +1,30 @@
 $leadColor : #fb4e4e;
 $heading-Color: #25282b;
 $SubHead-Color: #a0a4a8;
+$Bar-Shadow: 0px 3px 10px -5px #cacccf;
 
 .dish-cont {
   display: flex;
   align-items: center;
   background-color: white;
-  width: 330px;
-  height: 80px;
+  width: 100%;
+  height: 60px;
   border-radius: 10px;
   padding-left: 5px;
-  margin: 12px;
-  box-shadow: 3px 3px 3px 3px 10% #cacccf;
+  margin-bottom: 8px;
+  box-shadow: $Bar-Shadow;
 }
 
 .dish-imgsection {
   width: 25%;
-  height: 70px;
+  display: flex;
+  align-items: center;
+ 
 }
 
 .dish-img {
-  width: 70px;
-  height: 70px;
+  width: 50px;
+  height: 50px;
   border-radius: 10px;
 }
 
@@ -39,19 +42,20 @@ $SubHead-Color: #a0a4a8;
 .dish-name {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 16px;
   color: $heading-Color;
 }
 
 .dish-indg {
   font-family: "Open Sans", sans-serif;
-  font-weight: 500;
-  font-size: 11px;
+  font-weight: 400;
+  font-size: 8px;
   color: $SubHead-Color;
 }
 .dish-price {
+  width: 25%;
   font-family: "Open Sans", sans-serif;
   font-weight: 550;
-  font-size: 24px;
-  color: $leadColor;
+  font-size: 18px;
+  color: #2AC769;
 }
