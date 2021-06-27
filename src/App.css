@@ -1,6 +1,8 @@
 #root{
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   width: 100%;
 }
 
@@ -12,8 +14,6 @@
 
 .dish-list{
   display: flex;
-  flex-direction: column;
-  width: 90%;
-  margin-top: 50px; 
-
+ flex-direction: column;
+  width: 96%;
 }

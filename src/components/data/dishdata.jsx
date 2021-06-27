@@ -6,13 +6,13 @@ export const dish =
             title:'Snacks Tandoor',
             content: 
                 [
-                    { name: 'Paneer Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹210' },
-                    { name: 'Malai Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹240' },
-                    { name: 'Hariyali Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹240' },
-                    { name: 'Mushroom', indg: 'Green Chillies & Mustard Suace', price: '₹240' },
-                    { name: 'Veg Seek Kabab', indg: 'Green Chillies & Mustard Suace', price: '₹240' },
-                    { name: 'Hariyali Kabab', indg: 'Green Chillies & Mustard Suace', price: '₹240' },
-                    { name: 'Achari Paneer', indg: 'Green Chillies & Mustard Suace', price: '₹240' },
+                    { name: 'Paneer Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹210', cat:'v' },
+                    { name: 'Malai Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat:'n' },
+                    { name: 'Hariyali Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat:'n' },
+                    { name: 'Mushroom', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat:'v' },
+                    { name: 'Veg Seek Kabab', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'v' },
+                    { name: 'Hariyali Kabab', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'v' },
+                    { name: 'Achari Paneer', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'v' },
                    
                 ]
 
@@ -23,7 +23,7 @@ export const dish =
             title:'Tandoor Plater',
             content:
                 [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
                 ]
 
         },
@@ -33,7 +33,7 @@ export const dish =
             title:'Tandoor-Se-Bread',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -43,7 +43,7 @@ export const dish =
             title:'Combo',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -53,7 +53,7 @@ export const dish =
             title:'Papad',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -64,7 +64,7 @@ export const dish =
             title:'Salad',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -75,7 +75,7 @@ export const dish =
             title:'Snacks',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -85,7 +85,7 @@ export const dish =
             title:'Sandwich',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -95,7 +95,7 @@ export const dish =
             title:'Buger',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -105,7 +105,7 @@ export const dish =
             title:'Soups',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -115,7 +115,7 @@ export const dish =
             title:'Pizza',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -125,7 +125,7 @@ export const dish =
             title:'Pasta',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -135,7 +135,7 @@ export const dish =
             title:'Noodle',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -145,7 +145,7 @@ export const dish =
             title:'Chinese',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -155,7 +155,7 @@ export const dish =
             title:'Spring Roll',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -165,7 +165,7 @@ export const dish =
             title:'Chinese Platter',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -175,7 +175,7 @@ export const dish =
             title:"Mauji's Platter",
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -185,7 +185,7 @@ export const dish =
             title:'Combo',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -195,7 +195,7 @@ export const dish =
             title:'Cold Beverages',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -205,7 +205,7 @@ export const dish =
             title:'Kulhad Drinks',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -215,7 +215,7 @@ export const dish =
             title:'Hot Beverages',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },
@@ -225,7 +225,7 @@ export const dish =
             title:'Ice Soda',
             content:
               [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50' },
+                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
               ]
 
         },

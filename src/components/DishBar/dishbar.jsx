@@ -5,6 +5,7 @@ const DishBar = (props) => {
 
   return (
     <div className="dish-cont">
+    
       <div className="dish-imgsection">
         <img className="dish-img" src="https://images.unsplash.com/photo-1546039907-7fa05f864c02?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Zm9vZHxlbnwwfDJ8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60" alt="DishImage" />
       </div>
@@ -15,7 +16,7 @@ const DishBar = (props) => {
         </div>
         <div className="dish-price">{ props.price }</div>
       </div>
-
+      <div className="dish-cat" style={ { backgroundColor: `${props.cat === 'v' ? '#2AC769' : '#FB4E4E'}`, borderColor: `${props.cat === 'v' ? '#DDF8F8' : '#FFEBEB'}` }}></div>
     </div>
   );
 }

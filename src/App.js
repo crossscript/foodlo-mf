@@ -1,8 +1,10 @@
 import React from "react";
 import NavBar from "./components/NavBar/nav"
 import Accordion from "./components/Accordion/accordion"
+import Brand from "./components/Brand/brand"
 import { dish } from './components/data/dishdata'
 import "./App.css";
+
 
 function App() {
   // const[dishdata, setDishData] =useState({dish});
@@ -11,6 +13,8 @@ function App() {
   return (
     <>
       <NavBar />
+      <Brand />
+      
       <div className="dish-list">
         {
           dish.map(value => {

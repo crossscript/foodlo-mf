@@ -3,7 +3,7 @@
   "name": "Foodify - A Recipie Showcase",
   "icons": [
     {
-      "src": "https://image.flaticon.com/icons/png/512/1946/1946436.png",
+      "src": "%PUBLIC_URL%/brand/brand-logo.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
