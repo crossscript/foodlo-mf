@@ -1,7 +1,5 @@
-$leadColor : #fb4e4e;
-$heading-Color: #25282b;
-$SubHead-Color: #a0a4a8;
-$Bar-Shadow: 0px 3px 10px -5px #cacccf;
+
+@import "../global/global";
 
 .accordion{
   display: flex;
@@ -11,24 +9,20 @@ $Bar-Shadow: 0px 3px 10px -5px #cacccf;
   border-radius: 10px;
   padding: 5px;
   margin-bottom: 5px;
-  box-shadow: $Bar-Shadow;
+  box-shadow: $bar-shadow;
 }
 
 .accordion-item{
     width: 94%;
 }
 
-
-
 .accordion-Title{
     display: flex;
     width: 98%;
-    font-size: 24px;
-    font-weight: 500;
+    font-size: $fts-5;
+    font-weight: $fw-M;
     min-height: 40px;
     padding: 10px;
     justify-content: space-between;
-
-
 }
 

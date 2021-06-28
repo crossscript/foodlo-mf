@@ -22,7 +22,7 @@ const Accordion = (props) => {
                         isOpen && <div className="accordion-content">
                             {
                                 props.content.map(value => {
-                                    return (<DishBar name={ value.name } indg={ value.indg } price={ value.price } cat = {value.cat} />);
+                                    return (<DishBar name={ value.name } indg={ value.indg } price={ value.price } cat = {value.cat} url={value.url} />);
                                 })
                             }
                         </div>

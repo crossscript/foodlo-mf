@@ -1,6 +1,6 @@
 {
-  "short_name": "Foodify",
-  "name": "Foodify - A Recipie Showcase",
+  "short_name": "FoodGear",
+  "name": "FoodGear : A Recipie Showcase Solution",
   "icons": [
     {
       "src": "%PUBLIC_URL%/brand/brand-logo.png",

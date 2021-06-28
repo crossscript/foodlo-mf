@@ -1,7 +1,6 @@
-$leadColor : #fb4e4e;
-$heading-Color: #25282b;
-$SubHead-Color: #a0a4a8;
-$Bar-Shadow: 0px 3px 11px -3px #cacccf;
+
+
+@import "../global/global" ;
 
 .dish-cont {
   display: flex;
@@ -12,17 +11,17 @@ $Bar-Shadow: 0px 3px 11px -3px #cacccf;
   border-radius: 10px;
   padding-left: 5px;
   margin-bottom: 8px;
-  box-shadow: $Bar-Shadow;
+  box-shadow: $bar-shadow;
 }
 
 .dish-cat{
   position:relative;
-  width: 8px;
-  height: 8px;
-  bottom: 20px;
-  right: 4px;
+  width:7px;
+  height: 6.13px;
+  bottom: 21px;
+  right: 3px;
   border-radius:50%;
-  border: 3PX solid ;
+  border: 3px solid ;
   
 }
 
@@ -30,43 +29,49 @@ $Bar-Shadow: 0px 3px 11px -3px #cacccf;
   width: 25%;
   display: flex;
   align-items: center;
+  
  
+}
+
+.dish-img{
+clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
 }
 
 .dish-img {
   width: 50px;
-  height: 50px;
+  height: 50px  ;
   border-radius: 10px;
 }
 
 .dish-desc {
   display: flex;
-  width: 75%;
+  width: 85%;
   align-items: center;
 }
+
 .dish-detail {
   display: flex;
   flex-direction: column;
-  width: 75%;
+  width: 80%;
 }
 
 .dish-name {
-  font-family: "Poppins", sans-serif;
-  font-weight: 700;
-  font-size: 16px;
+  font-family: $leadFont;
+  font-weight: $fw-L;
+  font-size: $fts-3;
   color: $heading-Color;
 }
 
 .dish-indg {
-  font-family: "Open Sans", sans-serif;
-  font-weight: 400;
-  font-size: 8px;
+  font-family: $SubFont;
+  font-weight: $fw-S;
+  font-size: $fts-1;
   color: $SubHead-Color;
 }
 .dish-price {
-  width: 25%;
-  font-family: "Open Sans", sans-serif;
-  font-weight: 550;
-  font-size: 18px;
+  width: 20%;
+  font-family: $SubFont;
+  font-weight: $fw-M;
+  font-size: $fts-3;
   color: #2AC769;
 }

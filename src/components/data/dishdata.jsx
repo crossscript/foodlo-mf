@@ -6,13 +6,13 @@ export const dish =
             title:'Snacks Tandoor',
             content: 
                 [
-                    { name: 'Paneer Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹210', cat:'v' },
-                    { name: 'Malai Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat:'n' },
-                    { name: 'Hariyali Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat:'n' },
-                    { name: 'Mushroom', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat:'v' },
-                    { name: 'Veg Seek Kabab', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'v' },
-                    { name: 'Hariyali Kabab', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'v' },
-                    { name: 'Achari Paneer', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'v' },
+                    { name: 'Paneer Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹210', cat:'v', url:'/images/ct1-01.jpg' },
+                        { name: 'Malai Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'n', url: '/images/ct1-02.jpg'  },
+                        { name: 'Hariyali Tikka', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'n', url: '/images/ct1-03.jpg' },
+                        { name: 'Mushroom', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'v', url: '/images/ct1-04.jpg' },
+                        { name: 'Veg Seek Kabab', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'v', url: '/images/ct1-05.jpg' },
+                        { name: 'Hariyali Kabab', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'v', url: '/images/ct1-06.jpg' },
+                        { name: 'Achari Paneer', indg: 'Green Chillies & Mustard Suace', price: '₹240', cat: 'v', url: '/images/ct1-07.jpg' },
                    
                 ]
 
@@ -23,7 +23,11 @@ export const dish =
             title:'Tandoor Plater',
             content:
                 [
-                    { name: 'Pizza', indg: 'Green Chillies & Mustard Suace', price: '₹50', cat: 'v' },
+                        { name: 'Tandoor Aloo', indg: 'Sorry! Description not available.', price: '₹240', cat: 'v', url: '/images/ct2-01.jpg' },
+                        { name: 'Paneer Tikka Seek Kabab', indg: 'Sorry! Description not available.', price: '₹240', cat: 'v', url: '/images/ct1-05.jpg' },
+                        { name: 'Mushroom Tikka', indg: 'Sorry! Description not available.', price: '₹240', cat: 'v', url: '/images/ct1-04.jpg' },
+                        { name: 'Naan Dal Makhani', indg: 'Sorry! Description not available.', price: '₹240', cat: 'v', url: '/images/ct2-02.jpg' },
+                       
                 ]
 
         },

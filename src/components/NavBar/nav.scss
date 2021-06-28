@@ -1,8 +1,12 @@
+
+@import "../global/global";
+
 .nav-cont{
 width: 100%;
 height: 40px;
-background-color: #FB4E4E;
+background-color: $leadColor;
 position: fixed;
+z-index: 1;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -10,7 +14,7 @@ top: 0px;
 }
 
 .brand-name{
-  font-family: 'Poppins', sans-serif;
+  font-family: $leadFont;
 font-weight: 700;
 color: white;
 filter: opacity(90%);
