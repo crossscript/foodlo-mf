@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import DishBar from "../DishBar/dishbar"
 import './accordion.scss'
+import '../global/_global.scss'
 
 
 
@@ -12,9 +13,15 @@ const Accordion = (props) => {
 
     return (
         <>
-            <div className="accordion" style={ { backgroundColor: `${isOpen ? '#EBEBEB' : 'white'}` } }>
+            <div className="accordion" style={ {
+                backgroundColor: `${isOpen ? '#EBEBEB' : '#2AC769'}`}}>
+                <div className="accordion-itemImg" style={ { display: `${ isOpen ? 'none' : 'flex'}` }}>
+                        <img src="/images/ct1.png" className="ct-img" alt="Broad Category Item" />
+                </div>
                 <div className="accordion-item">
-                    <div className="accordion-Title" onClick={ () => setIsOpen(!isOpen) }>  
+                    <div className="accordion-Title" onClick={ () => setIsOpen(!isOpen)}  style={ {
+                        color: `${isOpen ? 'black' : '#EBEBEB'}`
+                    } }>
                         <div>{ props.title }</div>
                         <div>{ isOpen ? '-' : '+' }</div>
                     </div>

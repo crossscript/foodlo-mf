@@ -5,24 +5,44 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 98%;
   height:  auto;
   border-radius: 10px;
-  padding: 5px;
+  padding: 3px;
   margin-bottom: 5px;
   box-shadow: $bar-shadow;
+  
 }
 
 .accordion-item{
-    width: 94%;
+   
+    width: 98%;
+    
 }
 
 .accordion-Title{
     display: flex;
-    width: 98%;
-    font-size: $fts-5;
-    font-weight: $fw-M;
-    min-height: 40px;
-    padding: 10px;
+    font-family: $leadFont;
+    color: $heading-ColorL;
+    width: 96%;
+    font-size: $fts-4;
+    font-weight: $fw-L;
+    min-height: 64px;
+    padding: 3px;
     justify-content: space-between;
+    align-items: center;
+}
+
+.accordion-itemImg{
+  width: 76px;
+  height: 76px;
+  position: relative;
+  left: -16px;
+  bottom: 2px;
+
+}
+
+.ct-img{
+filter: drop-shadow(-5px 8px 9px black);
 }
 
