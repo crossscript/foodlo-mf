@@ -1,0 +1,57 @@
+@import "../global/global";
+
+.hscroll-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 300px;
+  height: 420px;
+  border-radius: 10px;
+  padding: 3px;
+  margin: 0px 0px 0px 40px;
+  box-shadow: $bar-shadow;
+}
+
+.hscroll-item {
+  width: 98%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hscroll-Title {
+  display: flex;
+  flex-direction: column;
+  font-family: $leadFont;
+  color: $heading-ColorL;
+  width: 96%;
+  font-size: $fts-4;
+  font-weight: $fw-L;
+  justify-content: center;
+  align-items: center;
+}
+
+.hscroll-itemImg {
+  width: 100px;
+  height: 100px;
+  position: relative;
+ right: 205px;
+ bottom: 270px;
+  
+}
+
+.ct-imges {
+  width: 520px;
+  height: 350px;
+  filter: drop-shadow(-2px 20px 9px black);
+}
+
+.dishB-price {
+  width: 20%;
+  font-family: $SubFont;
+  font-weight: $fw-M;
+  font-size: $fts-3;
+  
+}

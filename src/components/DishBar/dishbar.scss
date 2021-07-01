@@ -50,7 +50,7 @@ clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
 .dish-detail {
   display: flex;
   flex-direction: column;
-  width: 80%;
+  width: 85%;
   justify-content: center;
 }
 
@@ -59,6 +59,9 @@ clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
   font-weight: $fw-L;
   font-size: $fts-3;
   color: $heading-Color;
+  overflow-x: scroll;
+  max-height: 25px;
+
 }
 
 .dish-indg {
@@ -66,6 +69,8 @@ clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
   font-weight: $fw-S;
   font-size: $fts-1;
   color: $SubHead-Color;
+   overflow-x: scroll;
+   height: 20px;
 }
 
 .dish-price {

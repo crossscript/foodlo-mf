@@ -2,8 +2,11 @@ import React from "react";
 import NavBar from "./components/NavBar/nav"
 import Accordion from "./components/Accordion/accordion"
 import Brand from "./components/Brand/brand"
+import Scrollx from './components/ScrollX/scrollx';
 import { dish } from './components/data/dishdata'
+import { dataHSx } from './components/data/dishHSx'
 import "./App.css";
+
 
 
 function App() {
@@ -23,6 +26,17 @@ function App() {
         }
       
       </div>
+      <h1>Party Menu</h1> 
+      <div className="scrolling">
+           {
+             dataHSx.map(item=>{
+               return (<Scrollx cont={item.cnt} catg={item.catg} price={item.price} />)
+             })
+           }
+        
+      </div>
+
+      
       
         
 

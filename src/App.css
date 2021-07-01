@@ -17,3 +17,12 @@
  flex-direction: column;
   width: 96%;
 }
+
+.scrolling{
+  display: flex;
+  width: 95%;
+  height: 630px;
+  overflow-x:scroll;
+  align-items: center;
+
+}
