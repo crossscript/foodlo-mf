@@ -27,7 +27,7 @@
   font-family: $leadFont;
   color: $heading-ColorL;
   width: 96%;
-  font-size: $fts-4;
+  font-size: $fts-6;
   font-weight: $fw-L;
   justify-content: center;
   align-items: center;
@@ -48,10 +48,15 @@
   filter: drop-shadow(-2px 20px 9px black);
 }
 
-.dishB-price {
-  width: 20%;
+.hscroll-price {
   font-family: $SubFont;
   font-weight: $fw-M;
-  font-size: $fts-3;
+  font-size: $fts-4;
   
+}
+
+.hscroll-detail{
+  display: flex;
+  flex-direction: column;
+  align-items:center ;
 }

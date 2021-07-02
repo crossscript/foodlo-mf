@@ -17,11 +17,13 @@ const Scrollx = (props) => {
                         <div className="hscroll-itemImg" style={ { display: `${isOpen ? 'none' : 'block'}` } }>
                             <img src="/images/ct1.png" className="ct-imges" alt="Broad Category Item" />
                         </div>
-                        <div>Testing</div>
-                        <div className="dishB-price" style={ {
+                        <div className="hscroll-detail">
+                        <div>{props.bun}</div>
+                        <div className="hscroll-price" style={ {
                             color: `${isOpen ? 'black' : 'white'}`
                         } }>{ props.price }</div>
                         <div>{ isOpen ? '-' : '+' }</div>
+                        </div>
                     </div>
                     {
                         isOpen && <div className="hscroll-content">

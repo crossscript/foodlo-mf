@@ -30,7 +30,7 @@ function App() {
       <div className="scrolling">
            {
              dataHSx.map(item=>{
-               return (<Scrollx cont={item.cnt} catg={item.catg} price={item.price} />)
+               return (<Scrollx  bun={item.bun} cont={item.cnt} catg={item.catg} price={item.price} />)
              })
            }
         

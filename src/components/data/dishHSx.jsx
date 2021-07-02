@@ -3,6 +3,7 @@ export const dataHSx = [
     {
         sn: '1',
         catg: 'v',
+        bun: 'Silver Stanza',
         price: '₹549+IncTax',
         cnt: [
             {
@@ -25,6 +26,7 @@ export const dataHSx = [
     {
         sn: '2',
         catg: 'v',
+        bun: 'Golden Guild',
         price: '₹700+IncTax',
         cnt: [
             {
@@ -47,6 +49,7 @@ export const dataHSx = [
     {
         sn: '3',
         catg: 'v',
+        bun: 'Diamond Dusk',
         price: '₹1200+IncTax',
         cnt: [
             {
