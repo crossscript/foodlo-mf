@@ -1,0 +1,73 @@
+@import "./components/global/global" ;
+
+#root{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.App{
+  margin: 0;
+  padding: 0; 
+}
+
+
+.dish-list{
+  display: flex;
+ flex-direction: column;
+  width: 96%;
+}
+
+.scrolling{
+  display: flex;
+  width: 95%;
+  min-height: 640px;
+  overflow-x:scroll;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.signoff-cont{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0px 40px 0px;
+}
+.quote-cont{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+
+}
+
+.quote-content{
+  font-family: $leadFont;
+  font-size: $fts-4;
+  font-weight: $fw-M;
+  text-align: center;
+}
+
+.quote-writer{
+  font-family: $SubFont;
+  font-size: $fts-2;
+  font-weight: $fw-L;
+  font-style: italic;
+}
+
+.thank{
+  font-family: $leadFont;
+  font-size: $fts-6;
+  font-weight: $fw-L;
+}
+
+.req-txt{
+  font-family: $leadFont;
+  font-size: $fts-3;
+  font-weight: $fw-M;
+}
+

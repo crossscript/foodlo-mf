@@ -1,13 +1,14 @@
 import React, { useState } from 'react'
 import BroadBar from '../DishBroadBar/dishBB'
 import './scrollx.scss'
+import '../global/_global.scss'
 
 const Scrollx = (props) => {
     const [isOpen, setIsOpen] = useState(false);
     return (
         <>
             <div className="hscroll-cont" style={ {
-                backgroundColor: `${isOpen ? '#EBEBEB' : '#2AC769'}`
+                backgroundColor: `${isOpen ? '#EBEBEB' : '#f07e01'}`
             } }>
                 <div className="hscroll-item">
                     

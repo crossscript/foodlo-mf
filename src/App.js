@@ -5,7 +5,8 @@ import Brand from "./components/Brand/brand"
 import Scrollx from './components/ScrollX/scrollx';
 import { dish } from './components/data/dishdata'
 import { dataHSx } from './components/data/dishHSx'
-import "./App.css";
+import Footer from './components/Footer/footer'
+import "./App.scss";
 
 
 
@@ -35,12 +36,18 @@ function App() {
            }
         
       </div>
-
+      <div className="signoff-cont">
+        <div className="quote-cont">
+        <div className="quote-content">Food is symbolic of love<br /> when words are inadueqate</div>
+        <div className="quote-writer">~Alan D. Wolfelt</div>
+        </div>
+        <div className="thank">Thanking You!</div>
+        <div className="req-txt">We'll love to hear from you about you.</div>
+      </div>
       
-      
-        
-
-    </>
+        <Footer />
+</>
+    
   );
 }
 

@@ -1,6 +1,6 @@
 {
-  "short_name": "FoodGear",
-  "name": "FoodGear : A Recipie Showcase Solution",
+  "short_name": "Foodlo",
+  "name": "Foodlo : A Recipie Showcase Solution",
   "icons": [
     {
       "src": "%PUBLIC_URL%/brand/brand-logo.png",
@@ -20,7 +20,7 @@
   ],
   "start_url": "/",
   "display": "fullscreen",
-  "theme_color": "#FB4E4E",
-  "background_color": "#FB4E4E",
+  "theme_color": "#f07e01",
+  "background_color": "#f07e01",
   "scope": "/src"
 }

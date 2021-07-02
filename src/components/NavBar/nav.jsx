@@ -6,7 +6,7 @@ const NavBar = (props) => {
     return (
         <div className="nav-cont">
             <div className="dish-brand">
-                <div className="brand-name">FoodGear<sup className="td-mrk">TM</sup></div>
+                <div className="brand-name">Foodlo<sup className="td-mrk">TM</sup></div>
             </div>
         </div>
     );

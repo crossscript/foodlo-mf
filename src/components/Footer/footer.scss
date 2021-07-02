@@ -1,0 +1,75 @@
+
+
+@import "../global/global" ;
+
+.footer-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:auto;
+    min-height: 200px;
+    background-color: black;
+    filter: opacity(87%);
+    color: aliceblue;
+    padding-top: 20px;
+    padding-left: 4px;
+    justify-content: center;
+  
+}
+
+.footer-detail{
+    display: flex;
+   
+}
+.brand-con{
+   display: flex;
+
+    margin: 0px;
+}
+
+.left-ft{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 4px;
+    filter: opacity(87%);
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.right-ft{
+ width: 50%;
+ padding: 4px;
+filter: opacity(87%);
+}
+
+.row-s{
+    font-family: $SubFont;
+    font-size: $fts-2;
+
+}
+.row-m{
+    font-family: $SubFont;
+    font-size: $fts-4;
+    font-weight: $fw-L;
+}
+
+.firm-name{
+    font-family: $leadFont;
+    font-size: $fts-3;
+    font-weight: $fw-L;
+
+}
+
+.prod-name{
+    font-size: $fts-4;
+    font-weight: $fw-M;
+    filter: opacity(87%);
+}
+
+.copyright{
+    margin: 20px;
+    filter: opacity(60%);
+}

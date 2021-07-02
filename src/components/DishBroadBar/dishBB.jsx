@@ -25,7 +25,7 @@ const BroadBar = (props) => {
                     }
                 </div>
             </div>
-            <div className="dishB-cat" style={ { backgroundColor: `${props.catg === 'v' ? '#2AC769' : '#FB4E4E'}`, borderColor: `${props.cat === 'v' ? '#DDF8F8' : '#FFEBEB'}` } }></div>
+            <div className="dishB-cat" style={ { backgroundColor: `${props.catg === 'v' ? '#2AC769' : '#FB4E4E'}`, borderColor: `${props.catg === 'v' ? '#DDF8F8' : '#FFEBEB'}` } }></div>
         </div>
     );
 }
