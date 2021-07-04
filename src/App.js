@@ -42,7 +42,7 @@ function App() {
         <div className="quote-writer">~Alan D. Wolfelt</div>
         </div>
         <div className="thank">Thanking You!</div>
-        <div className="req-txt">We'll love to hear from you about you.</div>
+        <div className="req-txt">We'll love to hear from you about us.</div>
       </div>
       
         <Footer />

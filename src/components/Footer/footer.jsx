@@ -15,7 +15,7 @@ const Footer = () => {
                     </div>
                     <div className="row-s">Powered By MassBite</div>
                     <div className="row-s">www.massbite.com</div>
-                    <div className="row-s"><a href="tel:+917566369055">+91756636905</a></div>
+                    <div className="row-s"><a href="tel:+917566369055">+917566369055</a></div>
                     <div className="row-s"><a href="tel:+918869969818">+918869969818</a></div>
                     
                     

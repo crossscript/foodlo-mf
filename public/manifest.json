@@ -3,17 +3,17 @@
   "name": "Foodlo : A Recipie Showcase Solution",
   "icons": [
     {
-      "src": "%PUBLIC_URL%/brand/brand-logo.png",
+      "src": "%PUBLIC_URL%/brand/foodlo.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "https://image.flaticon.com/icons/png/512/1946/1946436.png",
+      "src": "%PUBLIC_URL%/brand/foodlo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://image.flaticon.com/icons/png/512/1946/1946436.png",
+      "src": "%PUBLIC_URL%/brand/foodlo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -22,5 +22,5 @@
   "display": "fullscreen",
   "theme_color": "#f07e01",
   "background_color": "#f07e01",
-  "scope": "/src"
+  "scope": "/"
 }
