@@ -18,6 +18,8 @@ function App() {
     <>
       <NavBar />
       <Brand />
+
+      <div className="greeting-txt">Hi ! <br />What's in your mind?</div>
       
       <div className="dish-list">
         {
