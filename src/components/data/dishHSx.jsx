@@ -4,7 +4,7 @@ export const dataHSx = [
         sn: '1',
         catg: 'v',
         bun: 'Silver Stanza',
-        price: '₹549+IncTax',
+        price: '₹549 + Taxes',
         cnt: [
             {
                 id: '1',
@@ -27,16 +27,16 @@ export const dataHSx = [
         sn: '2',
         catg: 'v',
         bun: 'Golden Guild',
-        price: '₹700+IncTax',
+        price: '₹700 +Taxes',
         cnt: [
             {
                 id: '1',
-                cat: 'Welcome Drink (Any one)',
+                cat: 'Welcome Drink (Any Two)',
                 content: ['Soft Drink', 'Tea', 'Soup']
             },
             {
                 id: '2',
-                cat: 'Starter (Any one)',
+                cat: 'Starter',
                 content: ['Paneer Tikka', 'Spring Roll']
             },
             {
@@ -50,16 +50,16 @@ export const dataHSx = [
         sn: '3',
         catg: 'v',
         bun: 'Diamond Dusk',
-        price: '₹1200+IncTax',
+        price: '₹1200 + Taxes',
         cnt: [
             {
                 id: '1',
-                cat: 'Welcome Drink (Any one)',
+                cat: 'Welcome Drink',
                 content: ['Soft Drink', 'Tea', 'Soup']
             },
             {
                 id: '2',
-                cat: 'Starter (Any one)',
+                cat: 'Starter',
                 content: ['Paneer Tikka', 'Spring Roll', 'Seek Kabab']
             },
             {
