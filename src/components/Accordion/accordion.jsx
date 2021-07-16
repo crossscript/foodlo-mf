@@ -16,7 +16,7 @@ const Accordion = (props) => {
             <div className="accordion" style={ {
                 backgroundColor: `${isOpen ? '#EBEBEB' : '#f07e01'}`}}>
                 <div className="accordion-itemImg" style={ { display: `${ isOpen ? 'none' : 'flex'}` }}>
-                        <img src="/images/ct1.png" className="ct-img" alt="Broad Category Item" />
+                        <img src="/images/north.png" className="ct-img" alt="Broad Category Item" />
                 </div>
                 <div className="accordion-item">
                     <div className="accordion-Title" onClick={ () => setIsOpen(!isOpen)}  style={ {

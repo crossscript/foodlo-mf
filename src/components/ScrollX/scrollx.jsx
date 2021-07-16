@@ -16,7 +16,7 @@ const Scrollx = (props) => {
                         color: `${isOpen ? 'black' : '#EBEBEB'}`
                     } }>
                         <div className="hscroll-itemImg" style={ { display: `${isOpen ? 'none' : 'block'}` } }>
-                            <img src="/images/ct1.png" className="ct-imges" alt="Broad Category Item" />
+                            <img src="/images/big.png" className="ct-imges" alt="Broad Category Item" />
                         </div>
                         <div className="hscroll-detail">
                         <div>{props.bun}</div>

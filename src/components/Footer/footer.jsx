@@ -14,10 +14,7 @@ const Footer = () => {
                     </div>
             <div className="right-ft">
                     <div className="brand-con">
-                        <div className="prod-logo">
-                            <img src="." alt="" />
-                        </div>
-                        <div className="prod-name">Foodlo</div>
+                            <div className="prod-name"><img src='./brand/foodW.png' className="footer-logo" alt="Foodlo Logo" /></div>
                     </div>
                     <div className="row-s">Powered By MassBite</div>
                         <div className="row-s trans-bg"><a href="https://www.massbite.com">www.massbite.com</a></div>
