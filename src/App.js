@@ -18,8 +18,9 @@ function App() {
     <>
       <NavBar />
       <Brand />
+       <div  className="dish-section">
 
-      <div className="greeting-txt">Hi ! <br />What's in your mind?</div>
+      <div className="greeting-txt">Hi! <br />What's in your mind?</div>
       
       <div className="dish-list">
         {
@@ -37,6 +38,7 @@ function App() {
              })
            }
         
+      
       </div>
       <div className="signoff-cont">
         <div className="quote-cont">
@@ -45,6 +47,7 @@ function App() {
         </div>
         <div className="thank">Thanking You!</div>
         <div className="req-txt">We'll love to hear from you about us.</div>
+      </div>
       </div>
       
         <Footer />

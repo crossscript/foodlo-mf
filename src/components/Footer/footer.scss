@@ -11,27 +11,28 @@
     background-color: black;
     filter: opacity(87%);
     color: aliceblue;
-    padding-top: 20px;
-    padding-left: 4px;
     justify-content: center;
+    padding-top: 40px;
   
 }
 
 .footer-detail{
     display: flex;
+    width: 100%;
+    flex-direction: column;
+    text-align: center;
+   align-items: center;
    
 }
 .brand-con{
    display: flex;
-
     margin: 0px;
 }
 
 .left-ft{
-    width: 50%;
     display: flex;
+    margin-bottom: 16px;
     flex-direction: column;
-    padding: 4px;
     filter: opacity(87%);
 }
 a{
@@ -40,12 +41,12 @@ a{
 }
 
 .right-ft{
- width: 50%;
- padding: 4px;
 filter: opacity(87%);
+margin-bottom: 16px;
 }
 
 .row-s{
+
     font-family: $SubFont;
     font-size: $fts-2;
 
@@ -58,7 +59,7 @@ filter: opacity(87%);
 
 .firm-name{
     font-family: $leadFont;
-    font-size: $fts-3;
+    font-size: $fts-5;
     font-weight: $fw-L;
 
 }
@@ -72,4 +73,17 @@ filter: opacity(87%);
 .copyright{
     margin: 20px;
     filter: opacity(60%);
+}
+
+.trans-bg{
+    background-color: 
+    rgb(46, 46, 46);
+    border-radius: 30px;
+    display: flex;
+    padding-bottom: 3px;
+    padding-left: 6px;
+    text-align: center;
+    width: auto;
+   
+    
 }
