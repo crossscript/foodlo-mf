@@ -7,6 +7,7 @@ import { dish } from './components/data/dishdata'
 import { dataHSx } from './components/data/dishHSx'
 import Footer from './components/Footer/footer'
 import Button from './components/Button/button'
+import Sicon from './components/social/sicon'
 import "./App.scss";
 
 
@@ -49,8 +50,13 @@ function App() {
         <div className="thank">Thanking You!</div>
         <div className="req-txt">We'll love to hear from you about us.</div>
           <Button />
+          <div  className="social-gallery">
+            <Sicon url="./icon/fb.svg" alt="facebook" link="https://www.facebook.com/The-Town-Hall-109782751364887/"/>
+            <Sicon url="./icon/insta.svg" alt="instagram" link="https://instagram.com/maujistownhall?utm_medium=copy_link" />
+            <Sicon url="./icon/what.svg" alt="whatsapp" link="https://wa.me/+918423781793 " />
       </div>
      
+      </div>
       </div>
       
         <Footer />
