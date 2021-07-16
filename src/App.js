@@ -6,6 +6,7 @@ import Scrollx from './components/ScrollX/scrollx';
 import { dish } from './components/data/dishdata'
 import { dataHSx } from './components/data/dishHSx'
 import Footer from './components/Footer/footer'
+import Button from './components/Button/button'
 import "./App.scss";
 
 
@@ -47,7 +48,9 @@ function App() {
         </div>
         <div className="thank">Thanking You!</div>
         <div className="req-txt">We'll love to hear from you about us.</div>
+          <Button />
       </div>
+     
       </div>
       
         <Footer />

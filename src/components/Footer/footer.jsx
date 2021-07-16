@@ -21,7 +21,7 @@ const Footer = () => {
                     </div>
                     <div className="row-s">Powered By MassBite</div>
                         <div className="row-s trans-bg"><a href="https://www.massbite.com">www.massbite.com</a></div>
-                    <div className="row-s "><a href="tel:+917566369055">+917566369055</a></div>
+                        <div className="row-s "><a href="tel:+917566369055"><img src="./icon/phone.svg" alt="btn" height="10%" width="10%" />+917566369055</a></div>
                     <div className="row-s"><a href="tel:+918869969818">+918869969818</a></div>
                     
                     

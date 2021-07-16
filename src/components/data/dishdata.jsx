@@ -120,7 +120,7 @@ export const dish =
             {
 
                   id: 9,
-                  title: 'Buger',
+                  title: 'Burger',
                   content:
                         [
                               { name: 'Veg Burger', indg: ' ', price: '₹100', cat: 'v', url: '/images/sample.jpg' },
