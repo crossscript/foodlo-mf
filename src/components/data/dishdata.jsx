@@ -6,15 +6,15 @@ export const dish =
                   title: 'Cold Beverages',
                   content:
                         [
-                              { name: 'Fresh Lime Soda', indg: 'Sweet & Salted ', price: '₹60', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Cold Drink', indg: ' ', price: '₹60', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Cold Coffee', indg: ' ', price: '₹80', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Cold Coffee Icecream', indg: ' ', price: '₹120', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Water Bottle', indg: ' ', price: 'MRP', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Lassi Sweet', indg: ' ', price: '₹60', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Lassi Salted', indg: ' ', price: '₹55', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Lassi Mango', indg: ' ', price: '₹75', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chaanch', indg: ' ', price: '₹50', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Fresh Lime Soda', indg: 'Sweet & Salted ', price: '₹60', cat: 'v', url: '/images/ct1-01.jpg' },
+                              { name: 'Cold Drink', indg: ' ', price: '₹60', cat: 'v', url: '/images/ct1-02.jpg' },
+                              { name: 'Cold Coffee', indg: ' ', price: '₹80', cat: 'v', url: '/images/ct1-03.jpg' },
+                              { name: 'Cold Coffee Icecream', indg: ' ', price: '₹120', cat: 'v', url: '/images/ct1-04.jpg' },
+                              { name: 'Water Bottle', indg: ' ', price: 'MRP', cat: 'v', url: '/images/ct1-05.png' },
+                              { name: 'Lassi Sweet', indg: ' ', price: '₹60', cat: 'v', url: '/images/ct1-06.jpg' },
+                              { name: 'Lassi Salted', indg: ' ', price: '₹55', cat: 'v', url: '/images/ct1-07.jpg' },
+                              { name: 'Lassi Mango', indg: ' ', price: '₹75', cat: 'v', url: '/images/ct1-08.jpg' },
+                              { name: 'Chaanch', indg: ' ', price: '₹50', cat: 'v', url: '/images/ct1-09.jpg' },
 
                         ]
 
@@ -25,9 +25,9 @@ export const dish =
                   title: 'Kulhad Drinks',
                   content:
                         [
-                              { name: 'Kulhad Tea', indg: ' ', price: '₹70', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Kulhad Coffee', indg: ' ', price: '₹110', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Kulhad Lassi', indg: ' ', price: '₹120', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Kulhad Tea', indg: ' ', price: '₹70', cat: 'v', url: '/images/ct2-01.jpg' },
+                              { name: 'Kulhad Coffee', indg: ' ', price: '₹110', cat: 'v', url: '/images/ct2-02.jpg' },
+                              { name: 'Kulhad Lassi', indg: ' ', price: '₹120', cat: 'v', url: '/images/ct2-03.jpg' },
 
                         ]
 
@@ -38,10 +38,10 @@ export const dish =
                   title: 'Hot Beverages',
                   content:
                         [
-                              { name: 'Tea', indg: ' ', price: '₹60', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Masala Tea', indg: ' ', price: '₹70', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Hot Coffee', indg: ' ', price: '₹80', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Black Coffee', indg: ' ', price: '₹90', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Tea', indg: ' ', price: '₹60', cat: 'v', url: '/images/ct3-01.jpg' },
+                              { name: 'Masala Tea', indg: ' ', price: '₹70', cat: 'v', url: '/images/ct3-02.jpg' },
+                              { name: 'Hot Coffee', indg: ' ', price: '₹80', cat: 'v', url: '/images/ct3-03.jpg' },
+                              { name: 'Black Coffee', indg: ' ', price: '₹90', cat: 'v', url: '/images/ct3-04.jpg' },
 
 
                         ]
@@ -49,14 +49,14 @@ export const dish =
             },
             {
 
-                  id: 22,
+                  id: 4,
                   title: 'Ice Soda',
                   content:
                         [
-                              { name: 'Pineapple Soda', indg: ' ', price: '₹130', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'ButterScotch Soda', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chocolate Soda', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chocolate Strawberry Soda', indg: ' ', price: '₹150', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Pineapple Soda', indg: ' ', price: '₹130', cat: 'v', url: '/images/ct4-01.jpg' },
+                              { name: 'ButterScotch Soda', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct4-02.jpg' },
+                              { name: 'Chocolate Soda', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct4-03.jpg' },
+                              { name: 'Chocolate Strawberry Soda', indg: ' ', price: '₹150', cat: 'v', url: '/images/ct4-04.jpg' },
 
                         ]
 
