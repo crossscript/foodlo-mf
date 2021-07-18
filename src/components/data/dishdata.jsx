@@ -63,69 +63,57 @@ export const dish =
             },
             {
 
-                  id: 22,
+                  id: 5,
                   title: 'Shacky Shakes',
                   content:
                         [
-                              { name: 'Mango+Icecream', indg: ' ', price: '₹120', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Rose+Icecream MilkShake', indg: ' ', price: '₹130', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Orange', indg: ' ', price: '₹110', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Pineapple', indg: ' ', price: '₹110', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'ButterScotch', indg: ' ', price: '₹120', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Strawberry', indg: ' ', price: '₹120', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Lichi', indg: ' ', price: '₹130', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Green Apple', indg: ' ', price: '₹130', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Kitkat Shake', indg: ' ', price: '₹130', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Oreo Shake', indg: ' ', price: '₹130', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Ferrero Shake', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Mango Pan Shake', indg: ' ', price: '₹130', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Cadbury MilkShake', indg: ' ', price: '₹130', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Mango+Icecream', indg: ' ', price: '₹120', cat: 'v', url: '/images/ct5-01.jpg' },
+                              { name: 'Rose+Icecream MilkShake', indg: ' ', price: '₹130', cat: 'v', url: '/images/ct5-02.jpg' },
+                              { name: 'Orange', indg: ' ', price: '₹110', cat: 'v', url: '/images/ct5-03.jpg' },
+                              { name: 'Pineapple', indg: ' ', price: '₹110', cat: 'v', url: '/images/ct5-04.jpg' },
+                              { name: 'ButterScotch', indg: ' ', price: '₹120', cat: 'v', url: '/images/ct5-05.jpeg' },
+                              { name: 'Strawberry', indg: ' ', price: '₹120', cat: 'v', url: '/images/ct5-06.jpg' },
+                              { name: 'Lichi', indg: ' ', price: '₹130', cat: 'v', url: '/images/ct5-07.jpg' },
+                              { name: 'Green Apple', indg: ' ', price: '₹130', cat: 'v', url: '/images/ct5-08.jpg' },
+                              { name: 'Kitkat Shake', indg: ' ', price: '₹130', cat: 'v', url: '/images/ct5-09.jpg' },
+                              { name: 'Oreo Shake', indg: ' ', price: '₹130', cat: 'v', url: '/images/ct5-10.jpg' },
+                              { name: 'Ferrero Shake', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct5-11.jpg' },
+                              { name: 'Mango Pan Shake', indg: ' ', price: '₹130', cat: 'v', url: '/images/ct5-12.jpg' },
+                              { name: 'Cadbury MilkShake', indg: ' ', price: '₹130', cat: 'v', url: '/images/ct5-13.jpg' },
 
                         ]
 
             },
             {
 
-                  id: 7,
+                  id: 6,
                   title: 'Snacks',
                   content:
                         [
-                              { name: 'Pav Bhaji', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Pakoda', indg: ' ', price: '₹100', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Asorted Pakoda', indg: ' ', price: '₹80', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'French Fries', indg: ' ', price: '₹80', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Masala French Fries', indg: ' ', price: '₹100', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Pav Bhaji', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct6-01.jpg' },
+                              { name: 'Paneer Pakoda', indg: ' ', price: '₹100', cat: 'v', url: '/images/ct6-02.jpg' },
+                              { name: 'Asorted Pakoda', indg: ' ', price: '₹80', cat: 'v', url: '/images/ct6-03.jpg' },
+                              { name: 'French Fries', indg: ' ', price: '₹80', cat: 'v', url: '/images/ct6-04.jpg' },
+                              { name: 'Masala French Fries', indg: ' ', price: '₹100', cat: 'v', url: '/images/ct6-05.jpg' },
                         ]
 
             },
             
             {
 
-                  id: 1,
+                  id: 7,
                   title: 'Snacks Tandoor',
                   content:
                         [
-                              { name: 'Tandoori Momos 8Pc', indg: ' ', price: '₹220', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Tikka', indg: '', price: '₹210', cat: 'v', url: '/images/ct1-01.jpg' },
-                              { name: 'Malai Tikka', indg: '', price: '₹240', cat: 'v', url: '/images/ct1-02.jpg' },
-                              { name: 'Hariyali Paneer Tikka', indg: '', price: '₹240', cat: 'v', url: '/images/ct1-03.jpg' },
-                              { name: 'Mushroom Tikka', indg: '', price: '₹100', cat: 'v', url: '/images/ct1-04.jpg' },
-                              { name: 'Veg Seek Kabab', indg: '', price: '₹180', cat: 'v', url: '/images/ct1-05.jpg' },
-                              { name: 'Hariyali Kabab', indg: '', price: '₹195', cat: 'v', url: '/images/ct1-06.jpg' },
+                              
+                              { name: 'Paneer Tikka', indg: '', price: '₹210', cat: 'v', url: '/images/ct7-01.jpg' },
+                              { name: 'Malai Tikka', indg: '', price: '₹240', cat: 'v', url: '/images/ct7-02.jpg' },
+                              { name: 'Hariyali Paneer Tikka', indg: '', price: '₹240', cat: 'v', url: '/images/ct7-03.jpg' },
+                              { name: 'Mushroom Tikka', indg: '', price: '₹100', cat: 'v', url: '/images/ct7-04.jpg' },
+                              { name: 'Veg Seek Kabab', indg: '', price: '₹180', cat: 'v', url: '/images/ct7-05.jpg' },
+                              { name: 'Hariyali Kabab', indg: '', price: '₹195', cat: 'v', url: '/images/ct7-06.jpg' },
+                              { name: 'Tandoori Momos 8Pc', indg: ' ', price: '₹220', cat: 'v', url: '/images/ct7-07.jpg' },
 
-
-                        ]
-
-            },
-            {
-
-                  id: 9,
-                  title: 'Burger',
-                  content:
-                        [
-                              { name: 'Veg Burger', indg: ' ', price: '₹100', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Cheese Burger', indg: ' ', price: '₹110', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Tawa Cheese Burger', indg: ' ', price: '₹120', cat: 'v', url: '/images/sample.jpg' },
 
                         ]
 
@@ -133,16 +121,29 @@ export const dish =
             {
 
                   id: 8,
+                  title: 'Burger',
+                  content:
+                        [
+                              { name: 'Veg Burger', indg: ' ', price: '₹100', cat: 'v', url: '/images/ct8-01.jpg' },
+                              { name: 'Cheese Burger', indg: ' ', price: '₹110', cat: 'v', url: '/images/ct8-02.jpeg' },
+                              { name: 'Tawa Cheese Burger', indg: ' ', price: '₹120', cat: 'v', url: '/images/ct8-03.jpg' },
+
+                        ]
+
+            },
+            {
+
+                  id: 9,
                   title: 'Sandwich',
                   content:
                         [
-                              { name: 'Veg Toast', indg: ' ', price: '₹70', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Veg CheeseToast', indg: ' ', price: '₹80', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Veg Sandwich', indg: ' ', price: '₹120', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Grilled Sandwich', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Veg Cheese Sandwich', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Grilled Paneer SW', indg: ' ', price: '₹160', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Club Sandwich', indg: ' ', price: '₹180', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Veg Toast', indg: ' ', price: '₹70', cat: 'v', url: '/images/ct9-01.jpg' },
+                              { name: 'Veg Cheese Toast', indg: ' ', price: '₹80', cat: 'v', url: '/images/ct9-02.jpg' },
+                              { name: 'Veg Sandwich', indg: ' ', price: '₹120', cat: 'v', url: '/images/ct9-03.jpg' },
+                              { name: 'Grilled Sandwich', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct9-04.jpg' },
+                              { name: 'Veg Cheese Sandwich', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct9-05.jpg' },
+                              { name: 'Grilled Paneer SW', indg: ' ', price: '₹160', cat: 'v', url: '/images/ct9-06.jpg' },
+                              { name: 'Club Sandwich', indg: ' ', price: '₹180', cat: 'v', url: '/images/ct9-07.jpg' },
 
                         ]
 
