@@ -150,227 +150,227 @@ export const dish =
             },
             {
 
-                  id: 11,
+                  id: 10,
                   title: 'Pizza',
                   content:
                         [
-                              { name: 'Corn Pizza', indg: ' ', price: '₹190/260', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Cheese Pizza', indg: ' ', price: '₹200/260', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Vegi Pizza', indg: ' ', price: '₹190/250', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Onion Capsicum Pizza', indg: ' ', price: '₹190/250', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chilly Paneer Pizza', indg: ' ', price: '₹210/270', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Pizza', indg: ' ', price: '₹200/260', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Sweet Corn Pizza', indg: ' ', price: '₹190/250', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Mushroom Pizza', indg: ' ', price: '₹200/260', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Disco Pizza', indg: ' ', price: '₹240/330', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Corn Mushroom Paneer Pizza', indg: 'Freshly backed with pizza soping sausi french fries, sweet corn & baby corn ', price: '₹220/300', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Corn Pizza', indg: ' ', price: '₹190/260', cat: 'v', url: '/images/ct10-01.jpg' },
+                              { name: 'Cheese Pizza', indg: ' ', price: '₹200/260', cat: 'v', url: '/images/ct10-02.jpg' },
+                              { name: 'Vegi Pizza', indg: ' ', price: '₹190/250', cat: 'v', url: '/images/ct10-03.jpg' },
+                              { name: 'Onion Capsicum Pizza', indg: ' ', price: '₹190/250', cat: 'v', url: '/images/ct10-04.jpg' },
+                              { name: 'Chilly Paneer Pizza', indg: ' ', price: '₹210/270', cat: 'v', url: '/images/ct10-05.jpg' },
+                              { name: 'Paneer Pizza', indg: ' ', price: '₹200/260', cat: 'v', url: '/images/ct10-06.jpg' },
+                              { name: 'Sweet Corn Pizza', indg: ' ', price: '₹190/250', cat: 'v', url: '/images/ct10-07.jpg' },
+                              { name: 'Mushroom Pizza', indg: ' ', price: '₹200/260', cat: 'v', url: '/images/ct10-08.jpg' },
+                              { name: 'Disco Pizza', indg: ' ', price: '₹240/330', cat: 'v', url: '/images/ct10-09.jpg' },
+                              { name: 'Corn Mushroom Paneer Pizza', indg: 'Freshly backed with pizza soping sausi french fries, sweet corn & baby corn ', price: '₹220/300', cat: 'v', url: '/images/ct10-10.jpg' },
+                        ]
+
+            },
+            {
+
+                  id: 11,
+                  title: 'Pasta',
+                  content:
+                        [
+                              { name: 'White Sauce Pasta', indg: ' ', price: '₹150', cat: 'v', url: '/images/ct11-01.jpg' },
+                              { name: 'Red Cheese Pasta', indg: ' ', price: '₹170', cat: 'v', url: '/images/ct11-02.jpg' },
+
                         ]
 
             },
             {
 
                   id: 12,
-                  title: 'Pasta',
+                  title: 'Noodle',
                   content:
                         [
-                              { name: 'White Sauce Pasta', indg: ' ', price: '₹150', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Red Cheese Pasta', indg: ' ', price: '₹170', cat: 'v', url: '/images/sample.jpg' },
-
+                              { name: 'Veg Noodle', indg: ' ', price: '₹150', cat: 'v', url: '/images/ct12-01.jpeg' },
+                              { name: 'Hakka Noodle', indg: ' ', price: '₹170', cat: 'v', url: '/images/ct12-02.jpg' },
+                              { name: 'Chilli Noodle', indg: ' ', price: '₹170', cat: 'v', url: '/images/ct12-03.jpg' },
+                              { name: 'Corn Noodle', indg: ' ', price: '₹170', cat: 'v', url: '/images/ct12-04.jpg' },
+                              { name: 'Paneer Noodle', indg: ' ', price: '₹180', cat: 'v', url: '/images/ct12-05.jpg' },
+                              { name: 'Paneer Corn Noodle', indg: ' ', price: '₹190', cat: 'v', url: '/images/ct12-06.jpg' },
+                              { name: 'Mushroom Noodle', indg: ' ', price: '₹180', cat: 'v', url: '/images/ct12-07.jpg' },
+                              { name: 'Paneer Mushroom Noodle', indg: ' ', price: '₹200', cat: 'v', url: '/images/ct12-08.jpg' },
+                              { name: 'Schezwan Noodle', indg: ' ', price: '₹180', cat: 'v', url: '/images/ct12-09.jpg' },
+                              { name: 'Manchurian Noodle', indg: ' ', price: '₹200', cat: 'v', url: '/images/ct12-10.jpg' },
                         ]
 
             },
             {
 
                   id: 13,
-                  title: 'Noodle',
+                  title: 'Chinese',
                   content:
                         [
-                              { name: 'Veg Noodle', indg: ' ', price: '₹150', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Hakka Noodle', indg: ' ', price: '₹170', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chilli Noodle', indg: ' ', price: '₹170', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Corn Noodle', indg: ' ', price: '₹170', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Noodle', indg: ' ', price: '₹180', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Corn Noodle', indg: ' ', price: '₹190', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Mushroom Noodle', indg: ' ', price: '₹180', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Mushroom Noodle', indg: ' ', price: '₹200', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Schezwan Noodle', indg: ' ', price: '₹180', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Manchurian Noodle', indg: ' ', price: '₹200', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Veg Fried Rice', indg: ' ', price: '₹150', cat: 'v', url: '/images/ct13-01.jpeg' },
+                              { name: 'Veg Manchurian/Dry', indg: ' ', price: '₹180', cat: 'v', url: '/images/ct13-02.jpeg' },
+                              { name: 'Honey Chilli Potato', indg: ' ', price: '₹210', cat: 'v', url: '/images/ct13-03.jpg' },
+                              { name: 'Chilli Potato', indg: ' ', price: '₹180', cat: 'v', url: '/images/ct13-04.jpg' },
+                              { name: 'Chilli Paneer', indg: ' ', price: '₹200', cat: 'v', url: '/images/ct13-05.jpg' },
+                              { name: 'Chilli Mushroom Dry', indg: ' ', price: '₹180', cat: 'v', url: '/images/ct13-06.jpg' },
+                              { name: 'Crispy Baby Corn', indg: ' ', price: '₹210', cat: 'v', url: '/images/ct13-07.jpg' },
+                              { name: 'Chilli Baby Corn', indg: ' ', price: '₹210', cat: 'v', url: '/images/ct13-08.jpg' },
+                              { name: 'Spring Roll', indg: ' ', price: '₹160', cat: 'v', url: '/images/ct13-09.jpg' },
+
+
                         ]
 
             },
             {
 
                   id: 14,
-                  title: 'Chinese',
-                  content:
-                        [
-                              { name: 'Veg Fried Rice', indg: ' ', price: '₹150', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Veg Manchurian/Dry', indg: ' ', price: '₹180', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Honey Chilli Potato', indg: ' ', price: '₹210', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chilli Potato', indg: ' ', price: '₹180', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chilli Paneer', indg: ' ', price: '₹200', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chilli Mushroom Dry', indg: ' ', price: '₹180', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Crispy Baby Corn', indg: ' ', price: '₹210', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chilli Baby Corn', indg: ' ', price: '₹210', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Spring Roll', indg: ' ', price: '₹160', cat: 'v', url: '/images/sample.jpg' },
-
-
-                        ]
-
-            },
-            {
-
-                  id: 2,
                   title: 'Platter Plaza',
                   content:
                         [
-                              { name: 'Tandoori Platter ', indg: 'Tandoori Aloo, Paneer Tikka, Seek Kabab, Mushroom Tikka , Naan+Daal Makhani', price: '₹310', cat: 'v', url: '/images/ct2-01.jpg' },
-                              { name: 'Chinese Platter', indg: 'Chowmin+Manchurian+Fried Rice+Chilly Paneer', price: '₹310', cat: 'v' },
-                              { name: "Mauji's Platter", indg: 'Dry Manchurian+Fried Rice+Chilly Paneer+Crispy Baby Corn+Chilly Potato', price: '₹420', cat: 'v' },
-                              { name: "South Indian Platter", indg: 'Mini Dosa, Mini Uttapam, 1 Idli, 1 Vada, Sambhar , Chutney', price: '₹240', cat: 'v' },
+                              { name: 'Tandoori Platter ', indg: 'Tandoori Aloo, Paneer Tikka, Seek Kabab, Mushroom Tikka , Naan+Daal Makhani', price: '₹310', cat: 'v', url: '/images/ct14-01.jpg' },
+                              { name: 'Chinese Platter', indg: 'Chowmin+Manchurian+Fried Rice+Chilly Paneer', price: '₹310', cat: 'v', url: '/images/ct14-02.jpg' },
+                              { name: "Mauji's Platter", indg: 'Dry Manchurian+Fried Rice+Chilly Paneer+Crispy Baby Corn+Chilly Potato', price: '₹420', cat: 'v', url: '/images/ct14-03.jpg' },
+                              { name: "South Indian Platter", indg: 'Mini Dosa, Mini Uttapam, 1 Idli, 1 Vada, Sambhar , Chutney', price: '₹240', cat: 'v', url: '/images/ct14-04.jpg' },
 
                         ]
 
             },
             {
 
-                  id: 10,
+                  id: 15,
                   title: 'Soups',
                   content:
                         [
-                              { name: 'Tomato Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Sweet Corn Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Hot&Sour Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Cream of Mushroom', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Lemon Coriander Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Monchau Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Dhania Sorba Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Tomato Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct15-01.jpg' },
+                              { name: 'Sweet Corn Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct15-02.jpg' },
+                              { name: 'Hot&Sour Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct15-03.jpg' },
+                              { name: 'Cream of Mushroom', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct15-04.jpg' },
+                              { name: 'Lemon Coriander Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct15-05.jpg' },
+                              { name: 'Monchau Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct15-06.jpg' },
+                              { name: 'Dhania Sorba Soup', indg: ' ', price: '₹140', cat: 'v', url: '/images/ct15-07.jpg' },
                         ]
 
             },
         
             {
 
-                  id: 4,
+                  id: 16,
                   title: 'Combo',
                   content:
                         [
-                              { name: 'Dal Makhni+Veg Pulao', indg: ' ', price: '₹180', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Veg Biryani+Raita', indg: ' ', price: '₹200', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chole+Rice', indg: ' ', price: '₹180', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Fried Rice + Manchurian', indg: ' ', price: '₹210', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Fried Rice + Chilly Paneer', indg: ' ', price: '₹220', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Noodles + Chilly Paneer', indg: ' ', price: '₹210', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chowmin + Cold Drink + Spring Roll', indg: ' ', price: '₹280', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Dry Chilli Paneer + Dry Manchurian', indg: ' ', price: '₹280', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Chilly Potato + French Fries + Cold Drink', indg: ' ', price: '₹280', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Burger + Cold Drink + French Fries', indg: ' ', price: '₹260', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Dal Makhni+Veg Pulao', indg: ' ', price: '₹180', cat: 'v', url: '/images/ct16-01.jpg' },
+                              { name: 'Veg Biryani+Raita', indg: ' ', price: '₹200', cat: 'v', url: '/images/ct16-02.jpg' },
+                              { name: 'Chole+Rice', indg: ' ', price: '₹180', cat: 'v', url: '/images/ct16-03.jpg' },
+                              { name: 'Fried Rice + Manchurian', indg: ' ', price: '₹210', cat: 'v', url: '/images/ct16-04.jpg' },
+                              { name: 'Fried Rice + Chilly Paneer', indg: ' ', price: '₹220', cat: 'v', url: '/images/ct16-05.jpg' },
+                              { name: 'Noodles + Chilly Paneer', indg: ' ', price: '₹210', cat: 'v', url: '/images/ct16-06.jpg' },
+                              { name: 'Chowmin + Cold Drink + Spring Roll', indg: ' ', price: '₹280', cat: 'v', url: '/images/ct16-07.jpg' },
+                              { name: 'Dry Chilli Paneer + Dry Manchurian', indg: ' ', price: '₹280', cat: 'v', url: '/images/ct16-08.jpg' },
+                              { name: 'Chilly Potato + French Fries + Cold Drink', indg: ' ', price: '₹280', cat: 'v', url: '/images/ct16-09.jpg' },
+                              { name: 'Burger + Cold Drink + French Fries', indg: ' ', price: '₹260', cat: 'v', url: '/images/ct16-10.jpg' },
                         ]
 
             },
             {
 
-                  id: 23,
+                  id: 17,
                   title: 'Pataka Paneer',
                   content:
                         [
-                              { name: 'Matar Paneer', indg: ' ', price: '₹220', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Kadhai Paneer', indg: ' ', price: '₹230', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Butter Masala', indg: ' ', price: '₹250', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Do Pyaza', indg: ' ', price: '₹240', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Shahi Paneer', indg: ' ', price: '₹250', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Bhujia', indg: ' ', price: '₹240', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Kali Mirch', indg: ' ', price: '₹230', cat: 'v', url: '/images/sample.jpg' },
-                              { name: "Mauji's Special Paneer", indg: ' ', price: '₹270', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Dhaniya Adraki', indg: ' ', price: '₹240', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Pasanda', indg: ' ', price: '₹260', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Palak Paneer', indg: ' ', price: '₹255', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Handi Paneer', indg: ' ', price: '₹255', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Lababdar', indg: ' ', price: '₹265', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Matar Paneer', indg: ' ', price: '₹220', cat: 'v', url: '/images/ct17-01.jpg' },
+                              { name: 'Kadhai Paneer', indg: ' ', price: '₹230', cat: 'v', url: '/images/ct17-02.jpg' },
+                              { name: 'Paneer Butter Masala', indg: ' ', price: '₹250', cat: 'v', url: '/images/ct17-03.jpg' },
+                              { name: 'Paneer Do Pyaza', indg: ' ', price: '₹240', cat: 'v', url: '/images/ct17-04.jpg' },
+                              { name: 'Shahi Paneer', indg: ' ', price: '₹250', cat: 'v', url: '/images/ct17-05.jpg' },
+                              { name: 'Paneer Bhujia', indg: ' ', price: '₹240', cat: 'v', url: '/images/ct17-06.jpg' },
+                              { name: 'Paneer Kali Mirch', indg: ' ', price: '₹230', cat: 'v', url: '/images/ct17-07.jpg' },
+                              { name: "Mauji's Special Paneer", indg: ' ', price: '₹270', cat: 'v', url: '/images/ct17-08.jpg' },
+                              { name: 'Paneer Dhaniya Adraki', indg: ' ', price: '₹240', cat: 'v', url: '/images/ct17-09.jpg' },
+                              { name: 'Paneer Pasanda', indg: ' ', price: '₹260', cat: 'v', url: '/images/ct17-10.jpg' },
+                              { name: 'Palak Paneer', indg: ' ', price: '₹255', cat: 'v', url: '/images/ct17-11.jpg' },
+                              { name: 'Handi Paneer', indg: ' ', price: '₹255', cat: 'v', url: '/images/ct17-12.jpg' },
+                              { name: 'Paneer Lababdar', indg: ' ', price: '₹265', cat: 'v', url: '/images/ct17-13.jpg' },
 
                         ]
 
             },
             {
 
-                  id: 23,
+                  id: 18,
                   title: 'Mast Mushroom',
                   content:
                         [
-                              { name: 'Mushroom Masala', indg: ' ', price: '₹220', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Mushroom Matar', indg: ' ', price: '₹210', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Kadhai Mushroom', indg: ' ', price: '₹230', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Mushroom Do Pyaza', indg: ' ', price: '₹220', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Mushroom', indg: ' ', price: '₹240', cat: 'v', url: '/images/sample.jpg' },
-                              { name: "Mauji's Special Mushroom", indg: ' ', price: '₹250', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Mushroom Masala', indg: ' ', price: '₹220', cat: 'v', url: '/images/ct18-01.jpg' },
+                              { name: 'Mushroom Matar', indg: ' ', price: '₹210', cat: 'v', url: '/images/ct18-02.jpg' },
+                              { name: 'Kadhai Mushroom', indg: ' ', price: '₹230', cat: 'v', url: '/images/ct18-03.jpg' },
+                              { name: 'Mushroom Do Pyaza', indg: ' ', price: '₹220', cat: 'v', url: '/images/ct18-04.jpg' },
+                              { name: 'Paneer Mushroom', indg: ' ', price: '₹240', cat: 'v', url: '/images/ct18-05.jpg' },
+                              { name: "Mauji's Special Mushroom", indg: ' ', price: '₹250', cat: 'v', url: '/images/ct18-06.jpg' },
 
                         ]
 
             },
             {
 
-                  id: 23,
+                  id: 19,
                   title: 'Main Course',
                   content:
                         [
-                              { name: 'Jeera Aloo', indg: ' ', price: '₹160', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Matar Aloo', indg: ' ', price: '₹170', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Methi Aloo', indg: ' ', price: '₹190', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Aloo Tomato', indg: ' ', price: '₹110', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Banarasi Aloo', indg: ' ', price: '₹210', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Malai Kofta', indg: ' ', price: '₹280', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Mix Veg Kofta', indg: ' ', price: '₹250', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Kaju Korma', indg: ' ', price: '₹320', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Jeera Aloo', indg: ' ', price: '₹160', cat: 'v', url: '/images/ct19-01.jpg' },
+                              { name: 'Matar Aloo', indg: ' ', price: '₹170', cat: 'v', url: '/images/ct19-02.jpg' },
+                              { name: 'Methi Aloo', indg: ' ', price: '₹190', cat: 'v', url: '/images/ct19-03.jpg' },
+                              { name: 'Aloo Tomato', indg: ' ', price: '₹110', cat: 'v', url: '/images/ct19-04.jpg' },
+                              { name: 'Banarasi Aloo', indg: ' ', price: '₹210', cat: 'v', url: '/images/ct19-05.jpg' },
+                              { name: 'Malai Kofta', indg: ' ', price: '₹280', cat: 'v', url: '/images/ct19-06.jpg' },
+                              { name: 'Mix Veg Kofta', indg: ' ', price: '₹250', cat: 'v', url: '/images/ct19-07.jpg' },
+                              { name: 'Kaju Korma', indg: ' ', price: '₹320', cat: 'v', url: '/images/ct19-08.jpg' },
 
                         ]
 
             },
             {
 
-                  id: 3,
+                  id: 20,
                   title: ' Tandoori Bread',
                   content:
                         [
-                              { name: 'Tandoori Roti', indg: ' ', price: '₹20', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Butter Roti', indg: ' ', price: '₹22', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Butter Naan', indg: ' ', price: '₹65', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Plain Naan', indg: ' ', price: '₹55', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Lachha Paratha', indg: ' ', price: '₹55', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Missi Roti', indg: ' ', price: '₹50', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Garlic Naan', indg: ' ', price: '₹70', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Khasta Roti', indg: ' ', price: '₹50', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Tandoori Paratha with Raita', indg: ' ', price: '₹85', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Pudina Paratha with Raita', indg: ' ', price: '₹90', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Paneer Paratha with Raita', indg: ' ', price: '₹95', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Tandoori Roti', indg: ' ', price: '₹20', cat: 'v', url: '/images/ct20-01.jpg' },
+                              { name: 'Butter Roti', indg: ' ', price: '₹22', cat: 'v', url: '/images/ct20-02.jpg' },
+                              { name: 'Butter Naan', indg: ' ', price: '₹65', cat: 'v', url: '/images/ct20-03.jpg' },
+                              { name: 'Plain Naan', indg: ' ', price: '₹55', cat: 'v', url: '/images/ct20-04.jpg' },
+                              { name: 'Lachha Paratha', indg: ' ', price: '₹55', cat: 'v', url: '/images/ct20-05.jpg' },
+                              { name: 'Missi Roti', indg: ' ', price: '₹50', cat: 'v', url: '/images/ct20-05.jpg' },
+                              { name: 'Garlic Naan', indg: ' ', price: '₹70', cat: 'v', url: '/images/ct20-06.jpg' },
+                              { name: 'Khasta Roti', indg: ' ', price: '₹50', cat: 'v', url: '/images/ct20-07.jpg' },
+                              { name: 'Tandoori Paratha with Raita', indg: ' ', price: '₹85', cat: 'v', url: '/images/ct20-08.jpg' },
+                              { name: 'Pudina Paratha with Raita', indg: ' ', price: '₹90', cat: 'v', url: '/images/ct20-09.jpg' },
+                              { name: 'Paneer Paratha with Raita', indg: ' ', price: '₹95', cat: 'v', url: '/images/ct20-10.jpg' },
                         ]
 
             },
 
             {
 
-                  id: 23,
+                  id: 21,
                   title: 'Dal Dynasty',
                   content:
                         [
-                              { name: 'Plain Dal ', indg: ' ', price: '₹145', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Dal Tadka', indg: ' ', price: '₹160', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Dal Makhni', indg: ' ', price: '₹210', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Plain Dal ', indg: ' ', price: '₹145', cat: 'v', url: '/images/ct21-01.jpg' },
+                              { name: 'Dal Tadka', indg: ' ', price: '₹160', cat: 'v', url: '/images/ct21-02.jpg' },
+                              { name: 'Dal Makhni', indg: ' ', price: '₹210', cat: 'v', url: '/images/ct21-03.jpg' },
 
                         ]
 
             },
             {
 
-                  id: 16,
+                  id: 22,
                   title: 'Rice',
                   content:
                         [
 
-                              { name: 'Veg Pulao', indg: ' ', price: '₹165', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Steamed Rice', indg: ' ', price: '₹135', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Jeera Rice', indg: ' ', price: '₹150', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Matar Rice', indg: ' ', price: '₹165', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Veg Biryani', indg: ' ', price: '₹170', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Veg Pulao', indg: ' ', price: '₹165', cat: 'v', url: '/images/ct22-01.jpg' },
+                              { name: 'Steamed Rice', indg: ' ', price: '₹135', cat: 'v', url: '/images/ct22-02.jpg' },
+                              { name: 'Jeera Rice', indg: ' ', price: '₹150', cat: 'v', url: '/images/ct22-03.jpg' },
+                              { name: 'Matar Rice', indg: ' ', price: '₹165', cat: 'v', url: '/images/ct22-04.jpg' },
+                              { name: 'Veg Biryani', indg: ' ', price: '₹170', cat: 'v', url: '/images/ct22-05.jpg' },
 
                         ]
 
@@ -381,45 +381,45 @@ export const dish =
                   title: 'Rustom Raita',
                   content:
                         [
-                              { name: 'Mix Raita ', indg: ' ', price: '₹80', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Boondi Raita', indg: ' ', price: '₹70', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Pineapple Raita', indg: ' ', price: '₹100', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Mix Raita ', indg: ' ', price: '₹80', cat: 'v', url: '/images/ct23-01.jpg' },
+                              { name: 'Boondi Raita', indg: ' ', price: '₹70', cat: 'v', url: '/images/ct23-02.jpg' },
+                              { name: 'Pineapple Raita', indg: ' ', price: '₹100', cat: 'v', url: '/images/ct23-03.jpg' },
 
                         ]
 
             },
             {
 
-                  id: 6,
+                  id: 24,
                   title: 'Salad',
                   content:
                         [
-                              { name: 'Green Salad', indg: ' ', price: '₹90', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Green Salad', indg: ' ', price: '₹90', cat: 'v', url: '/images/ct24-01.jpg' },
                         ]
 
             },
 
             {
 
-                  id: 5,
+                  id: 25,
                   title: 'Papad',
                   content:
                         [
-                              { name: 'Roasted Papad', indg: ' ', price: '₹15', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Masala Papad', indg: ' ', price: '₹50', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Roasted Papad', indg: ' ', price: '₹15', cat: 'v', url: '/images/ct25-01.jpg' },
+                              { name: 'Masala Papad', indg: ' ', price: '₹50', cat: 'v', url: '/images/ct25-02.jpg' },
                         ]
 
             },
         
             {
 
-                  id: 17,
+                  id: 26,
                   title: "Thali",
                   content:
                         [
-                              { name: 'Delux Thali', indg: 'Paneer Vegetable -1, Seasonal Vegetable - 1, Dal Makhani/Yellow Dal, Rice-1, Naan-1, Laccha, Raita, Sweet, Papad, Salad, Pickle ', price: '₹275', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'Executive Thali', indg: 'Paneer Vegetable -1, Dal Makhani, Veg Pulao, Rice, Raita, Tandoori Roti-2, Salad, Pickle, Sweet ', price: '₹240', cat: 'v', url: '/images/sample.jpg' },
-                              { name: 'South Indian Thali', indg: 'Aloo Matar, Yellow Dal, Sambhar, Rasam, Rice, Poori-4 Pcs, Suji Halwa, Salad, Papad, Pickle, Chhach ', price: '₹160', cat: 'v', url: '/images/sample.jpg' },
+                              { name: 'Delux Thali', indg: 'Paneer Vegetable -1, Seasonal Vegetable - 1, Dal Makhani/Yellow Dal, Rice-1, Naan-1, Laccha, Raita, Sweet, Papad, Salad, Pickle ', price: '₹275', cat: 'v', url: '/images/ct26-01.jpg' },
+                              { name: 'Executive Thali', indg: 'Paneer Vegetable -1, Dal Makhani, Veg Pulao, Rice, Raita, Tandoori Roti-2, Salad, Pickle, Sweet ', price: '₹240', cat: 'v', url: '/images/ct26-02.jpg' },
+                              { name: 'South Indian Thali', indg: 'Aloo Matar, Yellow Dal, Sambhar, Rasam, Rice, Poori-4 Pcs, Suji Halwa, Salad, Papad, Pickle, Chhach ', price: '₹160', cat: 'v', url: '/images/ct26-03.jpg' },
 
                         ]
 
