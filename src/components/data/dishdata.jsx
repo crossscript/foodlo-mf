@@ -173,8 +173,8 @@ export const dish =
                   title: 'Pasta',
                   content:
                         [
-                              { name: 'White Sauce Pasta', indg: ' ', price: '₹150', cat: 'v', url: '/images/ct11-01.jpg' },
-                              { name: 'Red Cheese Pasta', indg: ' ', price: '₹170', cat: 'v', url: '/images/ct11-02.jpg' },
+                              { name: 'White Sauce Pasta', indg: ' ', price: '₹150', cat: 'v', url: '/images/ct11-01.jpeg' },
+                              { name: 'Red Cheese Pasta', indg: ' ', price: '₹170', cat: 'v', url: '/images/ct11-02.jpeg' },
 
                         ]
 
@@ -274,11 +274,11 @@ export const dish =
                   title: 'Pataka Paneer',
                   content:
                         [
-                              { name: 'Matar Paneer', indg: ' ', price: '₹220', cat: 'v', url: '/images/ct17-01.jpg' },
+                              { name: 'Matar Paneer', indg: ' ', price: '₹220', cat: 'v', url: '/images/ct17-01.jpeg' },
                               { name: 'Kadhai Paneer', indg: ' ', price: '₹230', cat: 'v', url: '/images/ct17-02.jpg' },
-                              { name: 'Paneer Butter Masala', indg: ' ', price: '₹250', cat: 'v', url: '/images/ct17-03.jpg' },
-                              { name: 'Paneer Do Pyaza', indg: ' ', price: '₹240', cat: 'v', url: '/images/ct17-04.jpg' },
-                              { name: 'Shahi Paneer', indg: ' ', price: '₹250', cat: 'v', url: '/images/ct17-05.jpg' },
+                              { name: 'Paneer Butter Masala', indg: ' ', price: '₹250', cat: 'v', url: '/images/ct17-03.jpeg' },
+                              { name: 'Paneer Do Pyaza', indg: ' ', price: '₹240', cat: 'v', url: '/images/ct17-04.jpeg' },
+                              { name: 'Shahi Paneer', indg: ' ', price: '₹250', cat: 'v', url: '/images/ct17-05.jpeg' },
                               { name: 'Paneer Bhujia', indg: ' ', price: '₹240', cat: 'v', url: '/images/ct17-06.jpg' },
                               { name: 'Paneer Kali Mirch', indg: ' ', price: '₹230', cat: 'v', url: '/images/ct17-07.jpg' },
                               { name: "Mauji's Special Paneer", indg: ' ', price: '₹270', cat: 'v', url: '/images/ct17-08.jpg' },
@@ -336,12 +336,12 @@ export const dish =
                               { name: 'Butter Naan', indg: ' ', price: '₹65', cat: 'v', url: '/images/ct20-03.jpg' },
                               { name: 'Plain Naan', indg: ' ', price: '₹55', cat: 'v', url: '/images/ct20-04.jpg' },
                               { name: 'Lachha Paratha', indg: ' ', price: '₹55', cat: 'v', url: '/images/ct20-05.jpg' },
-                              { name: 'Missi Roti', indg: ' ', price: '₹50', cat: 'v', url: '/images/ct20-05.jpg' },
-                              { name: 'Garlic Naan', indg: ' ', price: '₹70', cat: 'v', url: '/images/ct20-06.jpg' },
-                              { name: 'Khasta Roti', indg: ' ', price: '₹50', cat: 'v', url: '/images/ct20-07.jpg' },
-                              { name: 'Tandoori Paratha with Raita', indg: ' ', price: '₹85', cat: 'v', url: '/images/ct20-08.jpg' },
-                              { name: 'Pudina Paratha with Raita', indg: ' ', price: '₹90', cat: 'v', url: '/images/ct20-09.jpg' },
-                              { name: 'Paneer Paratha with Raita', indg: ' ', price: '₹95', cat: 'v', url: '/images/ct20-10.jpg' },
+                              { name: 'Missi Roti', indg: ' ', price: '₹50', cat: 'v', url: '/images/ct20-06.jpeg' },
+                              { name: 'Garlic Naan', indg: ' ', price: '₹70', cat: 'v', url: '/images/ct20-07.jpg' },
+                              { name: 'Khasta Roti', indg: ' ', price: '₹50', cat: 'v', url: '/images/ct20-08.jpg' },
+                              { name: 'Tandoori Paratha with Raita', indg: ' ', price: '₹85', cat: 'v', url: '/images/ct20-09.jpg' },
+                              { name: 'Pudina Paratha with Raita', indg: ' ', price: '₹90', cat: 'v', url: '/images/ct20-10.jpg' },
+                              { name: 'Paneer Paratha with Raita', indg: ' ', price: '₹95', cat: 'v', url: '/images/ct20-11.jpeg' },
                         ]
 
             },
@@ -370,7 +370,7 @@ export const dish =
                               { name: 'Steamed Rice', indg: ' ', price: '₹135', cat: 'v', url: '/images/ct22-02.jpg' },
                               { name: 'Jeera Rice', indg: ' ', price: '₹150', cat: 'v', url: '/images/ct22-03.jpg' },
                               { name: 'Matar Rice', indg: ' ', price: '₹165', cat: 'v', url: '/images/ct22-04.jpg' },
-                              { name: 'Veg Biryani', indg: ' ', price: '₹170', cat: 'v', url: '/images/ct22-05.jpg' },
+                              { name: 'Veg Biryani', indg: ' ', price: '₹170', cat: 'v', url: '/images/ct22-05.jpeg' },
 
                         ]
 
