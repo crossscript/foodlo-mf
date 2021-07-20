@@ -45,6 +45,7 @@ clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
   display: flex;
   width: 85%;
   align-items: center;
+  padding-right: 8px;
 }
 
 .dish-detail {
@@ -80,4 +81,5 @@ clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
   font-size: $fts-3;
   color: #2AC769;
   text-align: right;
+  
 }
