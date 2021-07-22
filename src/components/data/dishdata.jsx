@@ -8,7 +8,7 @@ export const dish =
                         [
                               { name: 'Fresh Lime Soda', indg: 'Sweet & Salted ', price: '₹60', cat: 'v', url: '/images/ct1-01.jpg' },
                               { name: 'Cold Drink', indg: ' ', price: '₹60', cat: 'v', url: '/images/ct1-02.jpg' },
-                              { name: 'Cold Coffee', indg: ' ', price: '₹80', cat: 'v', url: '/images/ct1-03.jpg' },
+                              { name: 'Cold Coffee', indg: ' ', price: '₹100', cat: 'v', url: '/images/ct1-03.jpg' },
                               { name: 'Cold Coffee Icecream', indg: ' ', price: '₹120', cat: 'v', url: '/images/ct1-04.jpg' },
                               { name: 'Water Bottle', indg: ' ', price: 'MRP', cat: 'v', url: '/images/ct1-05.png' },
                               { name: 'Lassi Sweet', indg: ' ', price: '₹60', cat: 'v', url: '/images/ct1-06.jpg' },
@@ -95,6 +95,7 @@ export const dish =
                               { name: 'Asorted Pakoda', indg: ' ', price: '₹80', cat: 'v', url: '/images/ct6-03.jpg' },
                               { name: 'French Fries', indg: ' ', price: '₹80', cat: 'v', url: '/images/ct6-04.jpg' },
                               { name: 'Masala French Fries', indg: ' ', price: '₹100', cat: 'v', url: '/images/ct6-05.jpg' },
+                              { name: 'Chola Bhatura', indg: ' ', price: '₹100', cat: 'v', url: '/images/ct6-06.jpg' },
                         ]
 
             },
@@ -106,13 +107,17 @@ export const dish =
                   content:
                         [
                               
-                              { name: 'Paneer Tikka', indg: '', price: '₹210', cat: 'v', url: '/images/ct7-01.jpg' },
+                              { name: 'Paneer Tikka', indg: '', price: '₹250', cat: 'v', url: '/images/ct7-01.jpg' },
                               { name: 'Malai Tikka', indg: '', price: '₹240', cat: 'v', url: '/images/ct7-02.jpg' },
                               { name: 'Hariyali Paneer Tikka', indg: '', price: '₹240', cat: 'v', url: '/images/ct7-03.jpg' },
-                              { name: 'Mushroom Tikka', indg: '', price: '₹100', cat: 'v', url: '/images/ct7-04.jpg' },
+                              { name: 'Mushroom Tikka', indg: '', price: '₹150', cat: 'v', url: '/images/ct7-04.jpg' },
                               { name: 'Veg Seek Kabab', indg: '', price: '₹180', cat: 'v', url: '/images/ct7-05.jpg' },
                               { name: 'Hariyali Kabab', indg: '', price: '₹195', cat: 'v', url: '/images/ct7-06.jpg' },
                               { name: 'Tandoori Momos 8Pc', indg: ' ', price: '₹220', cat: 'v', url: '/images/ct7-07.jpg' },
+                              { name: 'Malai Chaap', indg: ' ', price: '₹280', cat: 'v', url: '/images/ct7-08.jpeg' },
+                              { name: 'Paneer Tikka Masala Chaap', indg: ' ', price: '₹260', cat: 'v', url: '/images/ct7-09.jpg' },
+                              { name: 'Achari Chaap', indg: ' ', price: '₹240', cat: 'v', url: '/images/ct7-10.jpg' },
+                              { name: 'Achari Paneer Tikka', indg: ' ', price: '₹270', cat: 'v', url: '/images/ct7-11.jpg' },
 
 
                         ]
